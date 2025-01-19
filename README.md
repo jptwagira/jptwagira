@@ -22,8 +22,8 @@ I am a PhD candidate and a research assistant in the field of experimental astro
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-git-05122A?style=flat&logo=git&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=Jupyter-Notebook&color=353535)
 
 <div>
-  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=jptwagira&show_icons=true&count_private=true&hide_title=true" alt="jptwagira" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=jptwagira&" alt="jptwagira" />
+  <img width="49%" align="left" src="https://github-readme-stats.vercel.app/api?username=jptwagira&show_icons=true&count_private=true&hide_title=true" alt="jptwagira" />
+  <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=jptwagira&" alt="jptwagira" />
 </div>
 
 
