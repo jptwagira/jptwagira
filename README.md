@@ -28,4 +28,5 @@ I am a PhD candidate and a research assistant in the field of experimental astro
 
 
 ---
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/) and [github-readme-stats
+](https://github.com/anuraghazra/github-readme-stats).
