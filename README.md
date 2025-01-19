@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jptwagira/)
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:twagiray@msu.edu)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:twagirapeter1@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://jptwagira.github.io)](https://jptwagira.github.io)
 [![Github](https://img.shields.io/github/followers/jptwagira?label=Follow&style=social)](https://github.com/jptwagira)
 
