@@ -24,7 +24,7 @@ I am a PhD candidate and a research assistant in the field of experimental astro
   <img width="45%"  src="https://github-streak-stats.herokuapp.com/?user=jptwagira&" alt="jptwagira" />
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jptwagira" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jptwagira" alt="jptwagira" /></a>
 
 
 ---
