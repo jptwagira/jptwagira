@@ -22,9 +22,7 @@ I am a PhD candidate and a research assistant in the field of experimental astro
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=jptwagira&theme=tokyonight&show_icons=true&count_private=true&hide_title=true" alt="jptwagira" />
-  <a href="https://git.io/streak-stats">
-    <img width="45%" src="https://streak-stats.demolab.com?user=jptwagira&theme=tokyonight" alt="jptwagira" />
-  </a>
+  <a href="https://git.io/streak-stats"><img width="45%" src="https://streak-stats.demolab.com?user=jptwagira&theme=tokyonight" alt="jptwagira" /></a>
 </div>
 
 ---
