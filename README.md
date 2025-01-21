@@ -25,6 +25,13 @@ I am a PhD candidate and a research assistant in the field of experimental astro
 </div>
 
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jptwagira&show_icons=true&count_private=true&hide_title=true" alt="jptwagira" />
+  <a href="https://git.io/streak-stats">
+    <img width="48%" src="https://streak-stats.demolab.com?user=jptwagira" alt="jptwagira" />
+  </a>
+</div>
+
 ---
 :zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/) and [github-readme-stats
 ](https://github.com/anuraghazra/github-readme-stats).
