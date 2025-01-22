@@ -19,13 +19,8 @@ I am a PhD candidate and a research assistant in the field of experimental astro
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-git-05122A?style=flat&logo=git&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=Jupyter-Notebook&color=353535)
 
-<div
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=jptwagira&show_icons=true&count_private=true&hide_title=true" /></a>
-  
-  <a href="https://git.io/streak-stats">
-  <img width="45%" align="center" src="https://streak-stats.demolab.com?user=jptwagira" alt="jptwagira" /></a>
-</div>
+
+![jptwagira's Stats](https://github-readme-stats.vercel.app/api?username=jptwagira&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide_title=true)
 
 ---
 :zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/) and [github-readme-stats
