@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://jptwagira.github.io)](https://jptwagira.github.io)
 [![Github](https://img.shields.io/github/followers/jptwagira?label=Follow&style=social)](https://github.com/jptwagira)
 
-I am a PhD candidate and a research assistant in experimental astroparticle physics. I work on neutrino research, which spans data analysis and software development for tools designed for scientific applications.
+I am a research assistant in experimental astroparticle physics. I work on neutrino research, which spans data analysis and software development for tools designed for scientific applications.
 
 
 ### 🖥 Skills
